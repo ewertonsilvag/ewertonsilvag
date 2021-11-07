@@ -20,7 +20,9 @@
  <img align="center" alt="Ewerton-hadoop" height="60" width="60" src="https://symbols.getvecta.com/stencil_28/39_hdinsight.aab04dbe9b.svg" />
  <img align="center" alt="Ewerton-cloud" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
  <img align="center" alt="Ewerton-canva" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />  
+ <img align="right" alt="Ewerton-pic" height="80" width="80" src="https://drive.google.com/file/d/1JSN59qIw8c-4OQ0gR-v6Xq53AxBFxKVv/view?usp=sharing" />
 </div>
+  
 
 ##  
 <div> 
