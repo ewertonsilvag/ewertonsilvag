@@ -14,6 +14,7 @@
 ##  
 <div style="display: inline_block"><br>
  <img align="center" alt="Ewerton-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+ <img align="center" alt="Ewerton-Pandas" height="60 width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
  <img align="center" alt="Ewerton-Sql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img align="center" alt="Ewerton-mongo" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
  <img align="center" alt="Ewerton-spark" height="60" width="60" src="https://symbols.getvecta.com/stencil_74/35_apache-spark.91b7a417a5.svg" />
