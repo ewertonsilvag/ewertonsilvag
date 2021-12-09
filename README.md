@@ -17,8 +17,9 @@
  <img align="center" alt="Ewerton-Pandas" height="60 width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
  <img align="center" alt="Ewerton-Sql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img align="center" alt="Ewerton-mongo" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
- <img align="center" alt="Ewerton-spark" height="60" width="60" src="https://symbols.getvecta.com/stencil_74/35_apache-spark.91b7a417a5.svg" />
- <img align="center" alt="Ewerton-hadoop" height="60" width="60" src="https://symbols.getvecta.com/stencil_28/39_hdinsight.aab04dbe9b.svg" />
+ <img align="center" alt="Ewerton-spark" height="60" width="60" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" />
+ <img align="center" alt="Ewerton-hadoop" height="60" width="60" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" />
+ <img align="center" alt="Ewerton-Beam" height="60" width="60" src="https://www.vectorlogo.zone/logos/apache_beam/apache_beam-icon.svg" />                                      <img align="center" alt="Ewerton-DataBricks" height="60" width="60" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" />
  <img align="center" alt="Ewerton-cloud" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
  <img align="center" alt="Ewerton-canva" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />  
 </div>
