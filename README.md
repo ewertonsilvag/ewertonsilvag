@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Ewerton Silva e seja bem-vindo ao meu Github 👋
 
-- 👨‍💻 Engenheiro de dados JR;
-- 📖 Biólogo em formação pela UFPE;
+- 👨‍💻 Cientista de dados JR;
+- 📖 Bacharelado em ciência da computação - Descomplica;
 - 🧑🏽 Pronomes: ele/dele;
 - 📫 contate-me no email: ewertonsilvag@gmail.com ou no linkedIn: https://www.linkedin.com/in/ewertonsilvag/
 
