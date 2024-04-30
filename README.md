@@ -1,10 +1,8 @@
 ### Olá! Meu nome é Ewerton Silva e seja bem-vindo ao meu Github 👋
 
-- 👨‍💻 Cientista de dados JR;
+- 👨‍💻 Analista de dados JR;
 - 📖 Bacharelado em ciência da computação - Descomplica;
 - 🧑🏽 Pronomes: ele/dele;
-- 📫 contate-me no email: ewertonsilvag@gmail.com ou no linkedIn: https://www.linkedin.com/in/ewertonsilvag/
-
 <div align="center">
   <a href="https://github.com/ewertonsilvag">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ewertonsilvag&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
